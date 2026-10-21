@@ -1,0 +1,35 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    background-color: wheat;
+    size: 70px;
+    width: 20px;
+
+
+
+}
+
+button {
+    display: flexbox;
+    size: 30px;
+    background-color: rgb(140, 211, 211);
+    color: black;
+    margin: 5px;
+
+}
+
+
+.botoes {
+    display: flex;
+    margin-top: 20px;
+
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
